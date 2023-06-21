@@ -23,7 +23,7 @@ frozenlist==1.3.3
 fsspec==2023.6.0
 gitdb==4.0.10
 GitPython==3.1.31
-gpt4free @ git+https://github.com/xtekky/gpt4free@093053cfa093b43739430daf09ee201c897196c2
+gpt4free @ git+https://github.com/xtekky/gpt4free
 greenlet==2.0.2
 h11==0.14.0
 huggingface-hub==0.15.1
