@@ -118,5 +118,4 @@ zipp==3.15.0
 jinja2 
 aiofiles
 sqlalchemy
-psycopg2
-python-dotenv
+st-star-rating
