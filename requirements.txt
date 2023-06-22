@@ -1,2 +1,2 @@
-git+https://github.com/xtekky/gpt4free
+gpt4free @ git+https://github.com/xtekky/gpt4free@093053cfa093b43739430daf09ee201c897196c2
 st-star-rating
